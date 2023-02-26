@@ -1,5 +1,5 @@
 
-#VAGRANT
+#VAGRANT - Emacs
 
 ###Creating a virtual machine on my local computer
 ###Required downloading a virtualbox and vagrant
